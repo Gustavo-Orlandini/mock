@@ -1,134 +1,150 @@
 {
-    "users": [
-        {
-            "id": 1,
-            "name": "João",
-            "lastName": "Silva",
-            "company": "ABC Company",
-            "role": "Gerente",
-            "permission": "Administrador"
-        },
-        {
-            "id": 2,
-            "name": "Maria",
-            "lastName": "Santos",
-            "company": "XYZ Corporation",
-            "role": "Analista",
-            "permission": "Cliente"
-        },
-        {
-            "id": 3,
-            "name": "Pedro",
-            "lastName": "Pereira",
-            "company": "123 Corporation",
-            "role": "Desenvolvedor",
-            "permission": "Gerente"
-        },
-        {
-            "id": 4,
-            "name": "Ana",
-            "lastName": "Oliveira",
-            "company": "XYZ Corporation",
-            "role": "Coordenador",
-            "permission": "Cliente"
-        },
-        {
-            "id": 5,
-            "name": "Lucas",
-            "lastName": "Rodrigues",
-            "company": "ABC Company",
-            "role": "Analista",
-            "permission": "Gerente"
-        },
-        {
-            "id": 6,
-            "name": "Camila",
-            "lastName": "Ferreira",
-            "company": "123 Corporation",
-            "role": "Desenvolvedor",
-            "permission": "Administrador"
-        },
-        {
-            "id": 7,
-            "name": "Rafael",
-            "lastName": "Almeida",
-            "company": "XYZ Corporation",
-            "role": "Analista",
-            "permission": "Cliente"
-        },
-        {
-            "id": 8,
-            "name": "Juliana",
-            "lastName": "Gomes",
-            "company": "ABC Company",
-            "role": "Desenvolvedor",
-            "permission": "Gerente"
-        },
-        {
-            "id": 9,
-            "name": "Gustavo",
-            "lastName": "Ribeiro",
-            "company": "123 Corporation",
-            "role": "Analista",
-            "permission": "Administrador"
-        },
-        {
-            "id": 10,
-            "name": "Carolina",
-            "lastName": "Melo",
-            "company": "XYZ Corporation",
-            "role": "Desenvolvedor",
-            "permission": "Cliente"
-        },
-        {
-            "id": 11,
-            "name": "Marcos",
-            "lastName": "Santana",
-            "company": "ABC Company",
-            "role": "Analista",
-            "permission": "Administrador"
-        },
-        {
-            "id": 12,
-            "name": "Fernanda",
-            "lastName": "Costa",
-            "company": "123 Corporation",
-            "role": "Desenvolvedor",
-            "permission": "Gerente"
-        },
-        {
-            "id": 13,
-            "name": "Paulo",
-            "lastName": "Rocha",
-            "company": "XYZ Corporation",
-            "role": "Analista",
-            "permission": "Cliente"
-        },
-        {
-            "id": 14,
-            "name": "Amanda",
-            "lastName": "Carvalho",
-            "company": "ABC Company",
-            "role": "Desenvolvedor",
-            "permission": "Gerente"
-        },
-        {
-            "id": 15,
-            "name": "Rodrigo",
-            "lastName": "Nunes",
-            "company": "123 Corporation",
-            "role": "Analista",
-            "permission": "Administrador"
-        },
-        {
-            "id": 16,
-            "name": "Isabela",
-            "lastName": "Barbosa",
-            "company": "XYZ Corporation",
-            "role": "Desenvolvedor",
-            "permission": "Cliente"
-        }
-    ],
+  "users": [
+    {
+      "id": 1,
+      "name": "João",
+      "lastName": "Silva",
+      "company": "ABC Company",
+      "role": "Gerente",
+      "permission": "Administrador",
+      "avatar": "https://i.pravatar.cc/150?img=1"
+    },
+    {
+      "id": 2,
+      "name": "Maria",
+      "lastName": "Santos",
+      "company": "XYZ Corporation",
+      "role": "Analista",
+      "permission": "Cliente",
+      "avatar": "https://i.pravatar.cc/150?img=2"
+    },
+    {
+      "id": 3,
+      "name": "Pedro",
+      "lastName": "Pereira",
+      "company": "123 Corporation",
+      "role": "Desenvolvedor",
+      "permission": "Gerente",
+      "avatar": "https://i.pravatar.cc/150?img=3"
+    },
+    {
+      "id": 4,
+      "name": "Ana",
+      "lastName": "Oliveira",
+      "company": "XYZ Corporation",
+      "role": "Coordenador",
+      "permission": "Cliente",
+      "avatar": "https://i.pravatar.cc/150?img=4"
+    },
+    {
+      "id": 5,
+      "name": "Lucas",
+      "lastName": "Rodrigues",
+      "company": "ABC Company",
+      "role": "Analista",
+      "permission": "Gerente",
+      "avatar": "https://i.pravatar.cc/150?img=5"
+    },
+    {
+      "id": 6,
+      "name": "Camila",
+      "lastName": "Ferreira",
+      "company": "123 Corporation",
+      "role": "Desenvolvedor",
+      "permission": "Administrador",
+      "avatar": "https://i.pravatar.cc/150?img=6"
+    },
+    {
+      "id": 7,
+      "name": "Rafael",
+      "lastName": "Almeida",
+      "company": "XYZ Corporation",
+      "role": "Analista",
+      "permission": "Cliente",
+      "avatar": "https://i.pravatar.cc/150?img=7"
+    },
+    {
+      "id": 8,
+      "name": "Juliana",
+      "lastName": "Gomes",
+      "company": "ABC Company",
+      "role": "Desenvolvedor",
+      "permission": "Gerente",
+      "avatar": "https://i.pravatar.cc/150?img=8"
+    },
+    {
+      "id": 9,
+      "name": "Gustavo",
+      "lastName": "Ribeiro",
+      "company": "123 Corporation",
+      "role": "Analista",
+      "permission": "Administrador",
+      "avatar": "https://i.pravatar.cc/150?img=9"
+    },
+    {
+      "id": 10,
+      "name": "Carolina",
+      "lastName": "Melo",
+      "company": "XYZ Corporation",
+      "role": "Desenvolvedor",
+      "permission": "Cliente",
+      "avatar": "https://i.pravatar.cc/150?img=10"
+    },
+    {
+      "id": 11,
+      "name": "Marcos",
+      "lastName": "Santana",
+      "company": "ABC Company",
+      "role": "Analista",
+      "permission": "Administrador",
+      "avatar": "https://i.pravatar.cc/150?img=11"
+    },
+    {
+      "id": 12,
+      "name": "Fernanda",
+      "lastName": "Costa",
+      "company": "123 Corporation",
+      "role": "Desenvolvedor",
+      "permission": "Gerente",
+      "avatar": "https://i.pravatar.cc/150?img=12"
+    },
+    {
+      "id": 13,
+      "name": "Paulo",
+      "lastName": "Rocha",
+      "company": "XYZ Corporation",
+      "role": "Analista",
+      "permission": "Cliente",
+      "avatar": "https://i.pravatar.cc/150?img=13"
+    },
+    {
+      "id": 14,
+      "name": "Amanda",
+      "lastName": "Carvalho",
+      "company": "ABC Company",
+      "role": "Desenvolvedor",
+      "permission": "Gerente",
+      "avatar": "https://i.pravatar.cc/150?img=14"
+    },
+    {
+      "id": 15,
+      "name": "Rodrigo",
+      "lastName": "Nunes",
+      "company": "123 Corporation",
+      "role": "Analista",
+      "permission": "Administrador",
+      "avatar": "https://i.pravatar.cc/150?img=15"
+    },
+    {
+      "id": 16,
+      "name": "Isabela",
+      "lastName": "Barbosa",
+      "company": "XYZ Corporation",
+      "role": "Desenvolvedor",
+      "permission": "Cliente",
+      "avatar": "https://i.pravatar.cc/150?img=16"
+    }
+  ],
     "company": [
         "XYZ Corporation",
         "123 Corporation",
