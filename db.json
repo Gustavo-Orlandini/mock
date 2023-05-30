@@ -2,131 +2,148 @@
     "users": [
         {
             "id": 1,
-            "nome": "João",
-            "sobrenome": "Silva",
-            "empresa": "ABC Company",
-            "cargo": "Gerente",
-            "permissao": "Administrador"
+            "name": "João",
+            "lastName": "Silva",
+            "company": "ABC Company",
+            "role": "Gerente",
+            "permission": "Administrador"
         },
         {
             "id": 2,
-            "nome": "Maria",
-            "sobrenome": "Santos",
-            "empresa": "XYZ Corporation",
-            "cargo": "Analista",
-            "permissao": "Cliente"
+            "name": "Maria",
+            "lastName": "Santos",
+            "company": "XYZ Corporation",
+            "role": "Analista",
+            "permission": "Cliente"
         },
         {
             "id": 3,
-            "nome": "Pedro",
-            "sobrenome": "Pereira",
-            "empresa": "123 Corporation",
-            "cargo": "Desenvolvedor",
-            "permissao": "Gerente"
+            "name": "Pedro",
+            "lastName": "Pereira",
+            "company": "123 Corporation",
+            "role": "Desenvolvedor",
+            "permission": "Gerente"
         },
         {
             "id": 4,
-            "nome": "Ana",
-            "sobrenome": "Oliveira",
-            "empresa": "XYZ Corporation",
-            "cargo": "Coordenador",
-            "permissao": "Cliente"
+            "name": "Ana",
+            "lastName": "Oliveira",
+            "company": "XYZ Corporation",
+            "role": "Coordenador",
+            "permission": "Cliente"
         },
         {
             "id": 5,
-            "nome": "Lucas",
-            "sobrenome": "Rodrigues",
-            "empresa": "ABC Company",
-            "cargo": "Analista",
-            "permissao": "Gerente"
+            "name": "Lucas",
+            "lastName": "Rodrigues",
+            "company": "ABC Company",
+            "role": "Analista",
+            "permission": "Gerente"
         },
         {
             "id": 6,
-            "nome": "Camila",
-            "sobrenome": "Ferreira",
-            "empresa": "123 Corporation",
-            "cargo": "Desenvolvedor",
-            "permissao": "Administrador"
+            "name": "Camila",
+            "lastName": "Ferreira",
+            "company": "123 Corporation",
+            "role": "Desenvolvedor",
+            "permission": "Administrador"
         },
         {
             "id": 7,
-            "nome": "Rafael",
-            "sobrenome": "Almeida",
-            "empresa": "XYZ Corporation",
-            "cargo": "Analista",
-            "permissao": "Cliente"
+            "name": "Rafael",
+            "lastName": "Almeida",
+            "company": "XYZ Corporation",
+            "role": "Analista",
+            "permission": "Cliente"
         },
         {
             "id": 8,
-            "nome": "Juliana",
-            "sobrenome": "Gomes",
-            "empresa": "ABC Company",
-            "cargo": "Desenvolvedor",
-            "permissao": "Gerente"
+            "name": "Juliana",
+            "lastName": "Gomes",
+            "company": "ABC Company",
+            "role": "Desenvolvedor",
+            "permission": "Gerente"
         },
         {
             "id": 9,
-            "nome": "Gustavo",
-            "sobrenome": "Ribeiro",
-            "empresa": "123 Corporation",
-            "cargo": "Analista",
-            "permissao": "Administrador"
+            "name": "Gustavo",
+            "lastName": "Ribeiro",
+            "company": "123 Corporation",
+            "role": "Analista",
+            "permission": "Administrador"
         },
         {
             "id": 10,
-            "nome": "Carolina",
-            "sobrenome": "Melo",
-            "empresa": "XYZ Corporation",
-            "cargo": "Desenvolvedor",
-            "permissao": "Cliente"
+            "name": "Carolina",
+            "lastName": "Melo",
+            "company": "XYZ Corporation",
+            "role": "Desenvolvedor",
+            "permission": "Cliente"
         },
         {
             "id": 11,
-            "nome": "Marcos",
-            "sobrenome": "Santana",
-            "empresa": "ABC Company",
-            "cargo": "Analista",
-            "permissao": "Administrador"
+            "name": "Marcos",
+            "lastName": "Santana",
+            "company": "ABC Company",
+            "role": "Analista",
+            "permission": "Administrador"
         },
         {
             "id": 12,
-            "nome": "Fernanda",
-            "sobrenome": "Costa",
-            "empresa": "123 Corporation",
-            "cargo": "Desenvolvedor",
-            "permissao": "Gerente"
+            "name": "Fernanda",
+            "lastName": "Costa",
+            "company": "123 Corporation",
+            "role": "Desenvolvedor",
+            "permission": "Gerente"
         },
         {
             "id": 13,
-            "nome": "Paulo",
-            "sobrenome": "Rocha",
-            "empresa": "XYZ Corporation",
-            "cargo": "Analista",
-            "permissao": "Cliente"
+            "name": "Paulo",
+            "lastName": "Rocha",
+            "company": "XYZ Corporation",
+            "role": "Analista",
+            "permission": "Cliente"
         },
         {
             "id": 14,
-            "nome": "Amanda",
-            "sobrenome": "Carvalho",
-            "empresa": "ABC Company",
-            "cargo": "Desenvolvedor",
-            "permissao": "Gerente"
+            "name": "Amanda",
+            "lastName": "Carvalho",
+            "company": "ABC Company",
+            "role": "Desenvolvedor",
+            "permission": "Gerente"
         },
         {
             "id": 15,
-            "nome": "Rodrigo",
-            "sobrenome": "Nunes",
-            "empresa": "123 Corporation",
-            "cargo": "Analista",
-            "permissao": "Administrador"
+            "name": "Rodrigo",
+            "lastName": "Nunes",
+            "company": "123 Corporation",
+            "role": "Analista",
+            "permission": "Administrador"
         },
         {
             "id": 16,
-            "nome": "Isabela",
-            "sobrenome": "Barbosa",
-            "empresa": "XYZ Corporation",
-            "cargo": "Desenvolvedor",
-            "permissao": "Cliente"
+            "name": "Isabela",
+            "lastName": "Barbosa",
+            "company": "XYZ Corporation",
+            "role": "Desenvolvedor",
+            "permission": "Cliente"
         }
+    ],
+    "company": [
+        "XYZ Corporation",
+        "123 Corporation",
+        "ABC Company"
+    ],
+    "role": [
+        "Desenvolvedor",
+        "Analista",
+        "Coordenador",
+        "Gerente"
+    ],
+    "permission": [
+        "Cliente",
+        "Administrador",
+        "Master",
+        "Gerente"
     ]
 }
